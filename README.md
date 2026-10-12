@@ -12,7 +12,4 @@ math @ <a href="https://uwaterloo.ca/"><img src="assets/waterloo.png" alt="Unive
 
 <br clear="right" />
 
-<a href="mailto:p283shar@uwaterloo.ca"><img src="assets/email.svg" alt="Email" width="112" height="34" /></a>
-<a href="https://devpost.com/prasunsharma"><img src="assets/devpost.svg" alt="Devpost" width="112" height="34" /></a>
-<a href="https://www.linkedin.com/in/prasunsharma08/"><img src="assets/linkedin.svg" alt="LinkedIn" width="112" height="34" /></a>
-<a href="https://prasun-sharma.vercel.app/"><img src="assets/portfolio.svg" alt="Portfolio" width="112" height="34" /></a>
+[email](mailto:p283shar@uwaterloo.ca) · [devpost](https://devpost.com/prasunsharma) · [linkedin](https://www.linkedin.com/in/prasunsharma08/) · [portfolio](https://prasun-sharma.vercel.app/)
