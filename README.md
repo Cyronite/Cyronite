@@ -1,26 +1,21 @@
 <img src="assets/one-piece-banner.png" alt="A straw hat overlooking the ocean at sunset" width="100%" />
 
-<h1 align="center">Hey, I'm Prasun.</h1>
-<p align="center">Math @ UWaterloo · Previously SWE @ Sunnybrook</p>
+# hi, i'm prasun 👋
 
-<a href="https://tenor.com/view/one-piece-luffy-fix-hat-anime-gif-15627891"><img align="right" src="https://media1.tenor.com/m/zQxCu0hz6W8AAAAC/one-piece-luffy.gif" alt="Luffy adjusting his straw hat" width="130" /></a>
+<a href="https://tenor.com/view/one-piece-luffy-fix-hat-anime-gif-15627891"><img align="right" src="https://media1.tenor.com/m/zQxCu0hz6W8AAAAC/one-piece-luffy.gif" alt="Luffy adjusting his straw hat" width="120" /></a>
 
-### A little about me
+math @ uwaterloo. i build software, explore machine learning, and turn ideas into things you can click, try, or break :)
 
-Curious about how things work. Usually building something to find out.
+**right now:**
 
-- **Interests:** machine learning, useful software, and interactive experiences.
-- **Currently:** working on personal projects and exploring room planning in 3D.
-- **Off-screen:** a soft spot for One Piece.
+- 💻 building out my personal projects and portfolio
+- 🧩 exploring 3d room planning — layouts before heavy lifting
+- 🔬 taking ideas from experiments to usable tools
 
-### My toolkit
+**previously:** swe @ sunnybrook · co-built [WatchDog](https://devpost.com/software/watchdog-d9q4sc), a StarterHacks ’24 winner
 
-`Python` · `TypeScript` · `React` · `Node.js` · `PostgreSQL`
+**stack:** python · typescript · react · node.js · postgres
 
 <br clear="right" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prasunsharma08/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:p283shar@uwaterloo.ca">Email</a>
-</p>
-<p align="center"><sub>Still exploring. Still building.</sub></p>
+**find me:** [email](mailto:p283shar@uwaterloo.ca) · [devpost](https://devpost.com/prasunsharma) · [linkedin](https://www.linkedin.com/in/prasunsharma08/)
