@@ -6,7 +6,7 @@
 
 🧠 interested in machine learning, applied ai, and building software around them. i like turning experiments into tools people can use.
 
-🛠️ currently building my portfolio and planning a 3d room-layout tool.
+🛠️ currently building a planning 3d room-layout tool.
 
 **stack:** python · typescript · react · node.js · postgres
 
