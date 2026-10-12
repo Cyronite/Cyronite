@@ -4,7 +4,7 @@
 
 math @ uwaterloo · previously swe @ sunnybrook.
 
-i build web apps, experiment with machine learning, and make interactive things.
+interested in machine learning, applied ai, and building software around them. i like turning experiments into tools people can use.
 
 currently building my portfolio and planning a 3d room-layout tool.
 
