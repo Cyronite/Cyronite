@@ -2,6 +2,8 @@
 
 # hi, i'm prasun 👋
 
+<a href="https://tenor.com/view/luffy-one-piece-luffy-smile-smile-gif-23016281"><img align="right" src="https://media1.tenor.com/m/Nt6Zju-KjTsAAAAC/luffy-one-piece.gif" alt="Luffy smiling" width="120" /></a>
+
 math @ uwaterloo · previously swe @ sunnybrook.
 
 i build web apps, experiment with machine learning, and make interactive things.
@@ -11,5 +13,7 @@ i build web apps, experiment with machine learning, and make interactive things.
 co-built [WatchDog](https://devpost.com/software/watchdog-d9q4sc), a StarterHacks ’24 winner. currently building my portfolio and planning a 3d room-layout tool.
 
 **stack:** python · typescript · react · node.js · postgres
+
+<br clear="right" />
 
 [email](mailto:p283shar@uwaterloo.ca) · [devpost](https://devpost.com/prasunsharma) · [linkedin](https://www.linkedin.com/in/prasunsharma08/)
