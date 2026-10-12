@@ -1,25 +1,26 @@
-<img src="assets/one-piece-banner.png" alt="A straw hat with a red ribbon overlooking the ocean at sunset" width="100%" />
+<img src="assets/one-piece-banner.png" alt="A straw hat overlooking the ocean at sunset" width="100%" />
 
-# Hey, I'm Prasun 👋
+<h1 align="center">Hey, I'm Prasun.</h1>
+<p align="center">Math @ UWaterloo · Previously SWE @ Sunnybrook</p>
 
-<a href="https://tenor.com/view/one-piece-luffy-fix-hat-anime-gif-15627891"><img align="right" src="https://media1.tenor.com/m/zQxCu0hz6W8AAAAC/one-piece-luffy.gif" alt="Luffy adjusting his straw hat" width="150" /></a>
+<a href="https://tenor.com/view/one-piece-luffy-fix-hat-anime-gif-15627891"><img align="right" src="https://media1.tenor.com/m/zQxCu0hz6W8AAAAC/one-piece-luffy.gif" alt="Luffy adjusting his straw hat" width="130" /></a>
 
-Math @ UWaterloo · Previously SWE @ Sunnybrook
+### A little about me
 
-I build things that turn an interesting idea into something you can actually use. Usually with Python, TypeScript, and a few too many open tabs.
+Curious about how things work. Usually building something to find out.
 
-### 🧭 Captain's log
+- **Interests:** machine learning, useful software, and interactive experiences.
+- **Currently:** working on personal projects and exploring room planning in 3D.
+- **Off-screen:** a soft spot for One Piece.
 
-Building out my portfolio and exploring **RoomFit** — a room-planning tool for testing furniture layouts before moving anything. Currently in the planning stage.
+### My toolkit
 
-### 🏴‍☠️ Brought back from the voyage
-
-- [**WatchDog**](https://github.com/viv500/WatchDog) — real-time scam detection. StarterHacks ’24 winner.
-- [**Vox**](https://github.com/Cyronite/VoxAi) — a voice-controlled desktop assistant.
-- [**Conway's Game of Life**](https://github.com/Cyronite/Conway-s-Game-of-Life) — simple rules, unexpectedly complex worlds. Also the background of my portfolio.
+`Python` · `TypeScript` · `React` · `Node.js` · `PostgreSQL`
 
 <br clear="right" />
 
-*My Grand Line: rooms you can rearrange, tools you can talk to, and small rules that create big systems.*
-
-[LinkedIn](https://www.linkedin.com/in/prasunsharma08/) · [Email](mailto:p283shar@uwaterloo.ca)
+<p align="center">
+  <a href="https://www.linkedin.com/in/prasunsharma08/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:p283shar@uwaterloo.ca">Email</a>
+</p>
+<p align="center"><sub>Still exploring. Still building.</sub></p>
