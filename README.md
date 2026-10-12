@@ -4,12 +4,15 @@
 
 math @ uwaterloo · previously swe @ sunnybrook.
 
-interested in machine learning, applied ai, and building software around them. i like turning experiments into tools people can use.
+🧠 interested in machine learning, applied ai, and building software around them. i like turning experiments into tools people can use.
 
-currently building my portfolio and planning a 3d room-layout tool.
+🛠️ currently building my portfolio and planning a 3d room-layout tool.
 
 **stack:** python · typescript · react · node.js · postgres
 
 <br clear="right" />
 
-[email](mailto:p283shar@uwaterloo.ca) · [devpost](https://devpost.com/prasunsharma) · [linkedin](https://www.linkedin.com/in/prasunsharma08/)
+<a href="mailto:p283shar@uwaterloo.ca"><img src="assets/email.svg" alt="Email" width="112" height="34" /></a>
+<a href="https://devpost.com/prasunsharma"><img src="assets/devpost.svg" alt="Devpost" width="112" height="34" /></a>
+<a href="https://www.linkedin.com/in/prasunsharma08/"><img src="assets/linkedin.svg" alt="LinkedIn" width="112" height="34" /></a>
+<a href="https://cyronite.github.io/PrasunSharmaResume.pdf"><img src="assets/resume.svg" alt="Résumé" width="112" height="34" /></a>
